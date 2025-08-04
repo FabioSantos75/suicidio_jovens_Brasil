@@ -63,5 +63,6 @@ Sou **Fábio dos Santos**, instrutor de informática e analista de dados. Desenv
 🔗 Acesse meu portfólio online: [(https://fabiosantos2407.wixsite.com/santos)]
 🔗 LinkedIn: [(https://www.linkedin.com/in/fabio-dos-santos-61578b180/)]
 🔗 Instagram: [(https://www.instagram.com/fabiosantos7590/)]
----
+🔗 Deshboard Interativo: [(https://lookerstudio.google.com/reporting/b6bc8261-9a16-4711-82a8-1848c1ce4fd3)]
+
 
